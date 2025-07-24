@@ -200,4 +200,4 @@ Hidden content here
 4. **Use visuals** - Screenshots, diagrams, or GIFs can be helpful
 5. **Include examples** - Show real code samples of how to use your project
 
-Would you like me to provide a template for a specific type of project (e.g., Python package, web app, etc.)?
+
